@@ -1,0 +1,11 @@
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\models\Currency.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\services\RateService.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\Main.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\services\RateServiceInterface.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\utils\Validations.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\utils\Helpers.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\client\ExchangeRateHostClientInterface.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\models\domain\LatestRateResponse.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\models\RatesOutput.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\client\ExchangeRateHostClient.java
+C:\dev\projects\ChallengeKuehneNagel\src\main\java\models\domain\TimeseriesRateResponse.java

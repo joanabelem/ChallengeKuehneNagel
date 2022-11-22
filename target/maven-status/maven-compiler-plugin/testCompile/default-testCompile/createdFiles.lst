@@ -1,0 +1,4 @@
+client\ExchangeRateHostClientTest.class
+utils\HelpersTest.class
+utils\ValidationsTest.class
+services\RateServiceTest.class

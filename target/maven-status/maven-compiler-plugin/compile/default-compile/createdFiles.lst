@@ -1,0 +1,12 @@
+utils\Validations.class
+Main.class
+services\RateServiceInterface.class
+utils\Helpers.class
+client\ExchangeRateHostClientInterface.class
+client\ExchangeRateHostClient.class
+models\domain\TimeseriesRateResponse.class
+models\RatesOutput$RatesOutputBuilder.class
+models\RatesOutput.class
+models\domain\LatestRateResponse.class
+models\Currency.class
+services\RateService.class
